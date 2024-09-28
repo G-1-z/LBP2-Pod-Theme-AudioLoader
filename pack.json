@@ -1,0 +1,13 @@
+{
+  "name": "LBP2 Pod Theme",
+  "author": "G1z",
+  "version": "1.0",
+  "description": "LittleBigPlanet 2 Pod Theme Music Pack",
+  "music": true,
+  "files": {
+    "menu_music.mp3": {
+      "loop": true,
+      "volume": -10
+    }
+  }
+}
